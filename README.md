@@ -1,16 +1,15 @@
-## Hi there 👋
+## opa👋
 
-<!--
-**rigolovini1234/rigolovini1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 já vi estrelas cadentes
+- 🌱 moro no meio do mato
+- 👯 sou irmão do Silvio Santos
+- 🤔 tenho uma vó com 100 anos 
+- 💬 sla
+- 📫 já fui pra Alemanha 
+- 😄 tenho 16 anos 
+- ⚡ já vi lobo guará, jabuti , onça etc
+- 🍕 sei fazer pizza e macarrão caseiro  
+- 🍓 já comi varias frutas exoticas magustão, rambutam, etc
+- 🍷 já esperimentei vinho de Portugal
+- 🐄 tenho 100 cabeças de gado
+-  
